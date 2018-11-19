@@ -1,8 +1,8 @@
 # virtualmachine
 
 
-Dans le dossier ou vous voulez créer la machine virtuelle télécharger le script :
-git clone https://github.com/florianmg/virtualmachine.git
+Dans le dossier ou vous voulez créer la machine virtuelle télécharger le script.
+
 
 Pour créer la machine et la lancer :
 sh vagrant_launch.sh
