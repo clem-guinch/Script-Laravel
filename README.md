@@ -5,10 +5,10 @@ Dans le dossier ou vous voulez créer la machine virtuelle télécharger le scri
 
 
 Pour créer la machine et la lancer :
-sh script-lumen.sh
+sh vagrant_launch.sh
 
 Une fois dans la VM :
 cd /var/www/html
 
 Une fois dans le dossier lancer la commande suivante :
-sudo sh lumen_install.sh
+sudo sh lamp_install.sh
